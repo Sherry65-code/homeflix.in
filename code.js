@@ -66,3 +66,8 @@ function trailer1()
     </span>
     `;
 }
+function download()
+
+{
+    window.open('https://sherry65-code.github.io/legends.com');
+}
